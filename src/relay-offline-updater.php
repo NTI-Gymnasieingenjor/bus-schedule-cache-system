@@ -2,6 +2,7 @@
 
 require 'config.php';
 require 'util.php';
+require 'cors.php';
 
 if (file_exists('info.json')) {
     $info = json_decode(file_get_contents('info.json'));
