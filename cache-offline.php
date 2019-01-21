@@ -12,7 +12,11 @@ if (file_exists('info.json')) {
 }
 
 if ($update) {
-    $keep = [["start" => "Uppsala Business Park Norra", "stop" => "Uppsala Centralstation"], ["start" => "Uppsala Södra Slavstavägen", "stop" => "Uppsala Centralstation"], ["start" => "Uppsala Södra Slavstavägen", "stop" => "Storvreta Centrum (Uppsala kn)"]];
+    $keep = [
+        ["start" => "Uppsala Business Park Norra", "stop" => "Uppsala Centralstation"],
+        ["start" => "Uppsala Södra Slavstavägen", "stop" => "Uppsala Centralstation"],
+        ["start" => "Uppsala Business Park Norra", "stop" => "Storvreta Centrum (Uppsala kn)"],
+    ];
 
     $days = 7;
 
