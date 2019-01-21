@@ -1,0 +1,1697 @@
+[
+    {
+        "journeyKey": "13953151047001100450500053600010010",
+        "from": {
+            "id": 700527,
+            "name": "Uppsala Business Park Norra (Uppsala)",
+            "area": "C",
+            "type": 0,
+            "coordinate": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "to": {
+            "id": 700600,
+            "name": "Uppsala Centralstation (Uppsala)",
+            "area": "E1",
+            "type": 0,
+            "coordinate": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "departureDateTime": "2019-01-16T11:30:00",
+        "departureIsTimingPoint": true,
+        "hasRealTimeDepartureDeviation": false,
+        "realTimeDepartureDateTime": null,
+        "arrivalDateTime": "2019-01-16T11:43:00",
+        "arrivalIsTimingPoint": false,
+        "hasRealTimeArrivalDeviation": false,
+        "realTimeArrivalDateTime": null,
+        "travelTime": 13,
+        "routeLinks": [
+            {
+                "routeLinkKey": "13953151047001100450500053600010010",
+                "line": {
+                    "name": "11",
+                    "lineNo": 11,
+                    "trainNo": 0,
+                    "towards": "Gottsunda Centrum via Vårdsätra",
+                    "trafficType": 1
+                },
+                "to": {
+                    "id": 700600,
+                    "name": "Uppsala Centralstation (Uppsala)",
+                    "area": "E1",
+                    "type": 0,
+                    "coordinate": {
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                },
+                "from": {
+                    "id": 700527,
+                    "name": "Uppsala Business Park Norra (Uppsala)",
+                    "area": "C",
+                    "type": 0,
+                    "coordinate": {
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                },
+                "departureDateTime": "2019-01-16T11:30:00",
+                "departureIsTimingPoint": true,
+                "hasRealTimeDepartureDeviation": false,
+                "realTimeDepartureDateTime": null,
+                "arrivalDateTime": "2019-01-16T11:43:00",
+                "arrivalIsTimingPoint": false,
+                "hasRealTimeArrivalDeviation": false,
+                "realTimeArrivalDateTime": null,
+                "walkingDistance": null,
+                "isCallTrip": false,
+                "notes": [],
+                "pointsOnRoute": [
+                    {
+                        "id": 700512,
+                        "name": "Uppsala Business Park Östra (Uppsala)",
+                        "area": "B",
+                        "arrivalDateTime": "2019-01-16T10:31:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700513,
+                        "name": "Uppsala Business Park Västra (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:33:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700204,
+                        "name": "Möllersvärdsgatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:34:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700272,
+                        "name": "Rapsgatan norra (Uppsala)",
+                        "area": "C",
+                        "arrivalDateTime": "2019-01-16T10:35:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700381,
+                        "name": "Nymansgatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:37:00Z",
+                        "arrivalIsTimingPoint": true,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700379,
+                        "name": "Danmarksgatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:39:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700604,
+                        "name": "Björkgatan södra (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:40:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700608,
+                        "name": "Säbygatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:41:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    }
+                ],
+                "path": [],
+                "deviations": []
+            }
+        ],
+        "priceZoneList": "7101",
+        "ticketType": {
+            "code": "UL1",
+            "category": 0,
+            "name": {
+                "parts": [
+                    {
+                        "operator": "UL",
+                        "backgroundColor": "#f1c800",
+                        "textColor": "#211b00",
+                        "text": "Zon 1"
+                    }
+                ],
+                "additions": null
+            },
+            "zones": [
+                {
+                    "network": "UL",
+                    "code": "1",
+                    "name": "Zon 1",
+                    "backgroundColor": "#f1c800",
+                    "textColor": "#211b00"
+                }
+            ],
+            "validSeconds": 4500,
+            "priceClasses": [
+                {
+                    "type": 0,
+                    "code": "VUL1",
+                    "prices": [
+                        {
+                            "type": 6,
+                            "value": 3200,
+                            "bellaTicketOfferIds": [
+                                "5c35e316a3fb50000a4a51a1"
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "value": 2500,
+                            "bellaTicketOfferIds": [
+                                "5c35e318a3fb50000a4a51b4"
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "value": 2500,
+                            "bellaTicketOfferIds": [
+                                "5c35e3196898b8000a0c570e"
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "value": 3900,
+                            "bellaTicketOfferIds": [
+                                "5c35e31a6898b8000a0c572d"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "code": "UUL1",
+                    "prices": [
+                        {
+                            "type": 6,
+                            "value": 2000,
+                            "bellaTicketOfferIds": [
+                                "5c35e317a3fb50000a4a51af"
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "value": 1500,
+                            "bellaTicketOfferIds": [
+                                "5c35e31832ddf3000bf716f8"
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "value": 1500,
+                            "bellaTicketOfferIds": [
+                                "5c35e319a3fb50000a4a51cf"
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "value": 2700,
+                            "bellaTicketOfferIds": [
+                                "5c35e31a6898b8000a0c5733"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "expires": "2019-02-10T12:03:36.774365Z",
+            "additionalTicketTypes": null
+        },
+        "noOfChanges": 0,
+        "zones": [
+            {
+                "network": "UL",
+                "code": "1",
+                "name": "UL zon 1"
+            }
+        ]
+    },
+    {
+        "journeyKey": "13953151047001100907800150600020010",
+        "from": {
+            "id": 700527,
+            "name": "Uppsala Business Park Norra (Uppsala)",
+            "area": "E",
+            "type": 0,
+            "coordinate": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "to": {
+            "id": 700600,
+            "name": "Uppsala Centralstation (Uppsala)",
+            "area": "C4",
+            "type": 0,
+            "coordinate": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "departureDateTime": "2019-01-16T11:34:00",
+        "departureIsTimingPoint": false,
+        "hasRealTimeDepartureDeviation": false,
+        "realTimeDepartureDateTime": null,
+        "arrivalDateTime": "2019-01-16T11:50:00",
+        "arrivalIsTimingPoint": true,
+        "hasRealTimeArrivalDeviation": false,
+        "realTimeArrivalDateTime": null,
+        "travelTime": 16,
+        "routeLinks": [
+            {
+                "routeLinkKey": "13953151047001100907800150600020010",
+                "line": {
+                    "name": "804",
+                    "lineNo": 804,
+                    "trainNo": 0,
+                    "towards": "Centralstationen Enköping",
+                    "trafficType": 6
+                },
+                "to": {
+                    "id": 700600,
+                    "name": "Uppsala Centralstation (Uppsala)",
+                    "area": "C4",
+                    "type": 0,
+                    "coordinate": {
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                },
+                "from": {
+                    "id": 700527,
+                    "name": "Uppsala Business Park Norra (Uppsala)",
+                    "area": "E",
+                    "type": 0,
+                    "coordinate": {
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                },
+                "departureDateTime": "2019-01-16T11:34:00",
+                "departureIsTimingPoint": false,
+                "hasRealTimeDepartureDeviation": false,
+                "realTimeDepartureDateTime": null,
+                "arrivalDateTime": "2019-01-16T11:50:00",
+                "arrivalIsTimingPoint": true,
+                "hasRealTimeArrivalDeviation": false,
+                "realTimeArrivalDateTime": null,
+                "walkingDistance": null,
+                "isCallTrip": false,
+                "notes": [],
+                "pointsOnRoute": [
+                    {
+                        "id": 700512,
+                        "name": "Uppsala Business Park Östra (Uppsala)",
+                        "area": "B",
+                        "arrivalDateTime": "2019-01-16T10:35:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700513,
+                        "name": "Uppsala Business Park Västra (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:36:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700204,
+                        "name": "Möllersvärdsgatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:37:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700270,
+                        "name": "Bolandsgatan (Uppsala)",
+                        "area": "B",
+                        "arrivalDateTime": "2019-01-16T10:38:00Z",
+                        "arrivalIsTimingPoint": true,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700547,
+                        "name": "Stålgatan södra (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:41:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700333,
+                        "name": "Kungsängsesplanaden (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:45:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700259,
+                        "name": "Samariterhemmet (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:48:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    }
+                ],
+                "path": [],
+                "deviations": []
+            }
+        ],
+        "priceZoneList": "7101",
+        "ticketType": {
+            "code": "UL1",
+            "category": 0,
+            "name": {
+                "parts": [
+                    {
+                        "operator": "UL",
+                        "backgroundColor": "#f1c800",
+                        "textColor": "#211b00",
+                        "text": "Zon 1"
+                    }
+                ],
+                "additions": null
+            },
+            "zones": [
+                {
+                    "network": "UL",
+                    "code": "1",
+                    "name": "Zon 1",
+                    "backgroundColor": "#f1c800",
+                    "textColor": "#211b00"
+                }
+            ],
+            "validSeconds": 4500,
+            "priceClasses": [
+                {
+                    "type": 0,
+                    "code": "VUL1",
+                    "prices": [
+                        {
+                            "type": 6,
+                            "value": 3200,
+                            "bellaTicketOfferIds": [
+                                "5c35e316a3fb50000a4a51a1"
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "value": 2500,
+                            "bellaTicketOfferIds": [
+                                "5c35e318a3fb50000a4a51b4"
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "value": 2500,
+                            "bellaTicketOfferIds": [
+                                "5c35e3196898b8000a0c570e"
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "value": 3900,
+                            "bellaTicketOfferIds": [
+                                "5c35e31a6898b8000a0c572d"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "code": "UUL1",
+                    "prices": [
+                        {
+                            "type": 6,
+                            "value": 2000,
+                            "bellaTicketOfferIds": [
+                                "5c35e317a3fb50000a4a51af"
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "value": 1500,
+                            "bellaTicketOfferIds": [
+                                "5c35e31832ddf3000bf716f8"
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "value": 1500,
+                            "bellaTicketOfferIds": [
+                                "5c35e319a3fb50000a4a51cf"
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "value": 2700,
+                            "bellaTicketOfferIds": [
+                                "5c35e31a6898b8000a0c5733"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "expires": "2019-02-10T12:03:36.774365Z",
+            "additionalTicketTypes": null
+        },
+        "noOfChanges": 0,
+        "zones": [
+            {
+                "network": "UL",
+                "code": "1",
+                "name": "UL zon 1"
+            }
+        ]
+    },
+    {
+        "journeyKey": "13953151047001100450600053600010010",
+        "from": {
+            "id": 700527,
+            "name": "Uppsala Business Park Norra (Uppsala)",
+            "area": "C",
+            "type": 0,
+            "coordinate": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "to": {
+            "id": 700600,
+            "name": "Uppsala Centralstation (Uppsala)",
+            "area": "E1",
+            "type": 0,
+            "coordinate": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "departureDateTime": "2019-01-16T11:45:00",
+        "departureIsTimingPoint": true,
+        "hasRealTimeDepartureDeviation": false,
+        "realTimeDepartureDateTime": null,
+        "arrivalDateTime": "2019-01-16T11:58:00",
+        "arrivalIsTimingPoint": false,
+        "hasRealTimeArrivalDeviation": false,
+        "realTimeArrivalDateTime": null,
+        "travelTime": 13,
+        "routeLinks": [
+            {
+                "routeLinkKey": "13953151047001100450600053600010010",
+                "line": {
+                    "name": "11",
+                    "lineNo": 11,
+                    "trainNo": 0,
+                    "towards": "Gottsunda Centrum via Vårdsätra",
+                    "trafficType": 1
+                },
+                "to": {
+                    "id": 700600,
+                    "name": "Uppsala Centralstation (Uppsala)",
+                    "area": "E1",
+                    "type": 0,
+                    "coordinate": {
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                },
+                "from": {
+                    "id": 700527,
+                    "name": "Uppsala Business Park Norra (Uppsala)",
+                    "area": "C",
+                    "type": 0,
+                    "coordinate": {
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                },
+                "departureDateTime": "2019-01-16T11:45:00",
+                "departureIsTimingPoint": true,
+                "hasRealTimeDepartureDeviation": false,
+                "realTimeDepartureDateTime": null,
+                "arrivalDateTime": "2019-01-16T11:58:00",
+                "arrivalIsTimingPoint": false,
+                "hasRealTimeArrivalDeviation": false,
+                "realTimeArrivalDateTime": null,
+                "walkingDistance": null,
+                "isCallTrip": false,
+                "notes": [],
+                "pointsOnRoute": [
+                    {
+                        "id": 700512,
+                        "name": "Uppsala Business Park Östra (Uppsala)",
+                        "area": "B",
+                        "arrivalDateTime": "2019-01-16T10:46:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700513,
+                        "name": "Uppsala Business Park Västra (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:48:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700204,
+                        "name": "Möllersvärdsgatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:49:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700272,
+                        "name": "Rapsgatan norra (Uppsala)",
+                        "area": "C",
+                        "arrivalDateTime": "2019-01-16T10:50:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700381,
+                        "name": "Nymansgatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:52:00Z",
+                        "arrivalIsTimingPoint": true,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700379,
+                        "name": "Danmarksgatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:54:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700604,
+                        "name": "Björkgatan södra (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:55:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700608,
+                        "name": "Säbygatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:56:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    }
+                ],
+                "path": [],
+                "deviations": []
+            }
+        ],
+        "priceZoneList": "7101",
+        "ticketType": {
+            "code": "UL1",
+            "category": 0,
+            "name": {
+                "parts": [
+                    {
+                        "operator": "UL",
+                        "backgroundColor": "#f1c800",
+                        "textColor": "#211b00",
+                        "text": "Zon 1"
+                    }
+                ],
+                "additions": null
+            },
+            "zones": [
+                {
+                    "network": "UL",
+                    "code": "1",
+                    "name": "Zon 1",
+                    "backgroundColor": "#f1c800",
+                    "textColor": "#211b00"
+                }
+            ],
+            "validSeconds": 4500,
+            "priceClasses": [
+                {
+                    "type": 0,
+                    "code": "VUL1",
+                    "prices": [
+                        {
+                            "type": 6,
+                            "value": 3200,
+                            "bellaTicketOfferIds": [
+                                "5c35e316a3fb50000a4a51a1"
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "value": 2500,
+                            "bellaTicketOfferIds": [
+                                "5c35e318a3fb50000a4a51b4"
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "value": 2500,
+                            "bellaTicketOfferIds": [
+                                "5c35e3196898b8000a0c570e"
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "value": 3900,
+                            "bellaTicketOfferIds": [
+                                "5c35e31a6898b8000a0c572d"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "code": "UUL1",
+                    "prices": [
+                        {
+                            "type": 6,
+                            "value": 2000,
+                            "bellaTicketOfferIds": [
+                                "5c35e317a3fb50000a4a51af"
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "value": 1500,
+                            "bellaTicketOfferIds": [
+                                "5c35e31832ddf3000bf716f8"
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "value": 1500,
+                            "bellaTicketOfferIds": [
+                                "5c35e319a3fb50000a4a51cf"
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "value": 2700,
+                            "bellaTicketOfferIds": [
+                                "5c35e31a6898b8000a0c5733"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "expires": "2019-02-10T12:03:36.774365Z",
+            "additionalTicketTypes": null
+        },
+        "noOfChanges": 0,
+        "zones": [
+            {
+                "network": "UL",
+                "code": "1",
+                "name": "UL zon 1"
+            }
+        ]
+    },
+    {
+        "journeyKey": "13953151047001100907900150600020010",
+        "from": {
+            "id": 700527,
+            "name": "Uppsala Business Park Norra (Uppsala)",
+            "area": "E",
+            "type": 0,
+            "coordinate": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "to": {
+            "id": 700600,
+            "name": "Uppsala Centralstation (Uppsala)",
+            "area": "C4",
+            "type": 0,
+            "coordinate": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "departureDateTime": "2019-01-16T11:49:00",
+        "departureIsTimingPoint": false,
+        "hasRealTimeDepartureDeviation": false,
+        "realTimeDepartureDateTime": null,
+        "arrivalDateTime": "2019-01-16T12:05:00",
+        "arrivalIsTimingPoint": true,
+        "hasRealTimeArrivalDeviation": false,
+        "realTimeArrivalDateTime": null,
+        "travelTime": 16,
+        "routeLinks": [
+            {
+                "routeLinkKey": "13953151047001100907900150600020010",
+                "line": {
+                    "name": "804",
+                    "lineNo": 804,
+                    "trainNo": 0,
+                    "towards": "Centralstationen Enköping",
+                    "trafficType": 6
+                },
+                "to": {
+                    "id": 700600,
+                    "name": "Uppsala Centralstation (Uppsala)",
+                    "area": "C4",
+                    "type": 0,
+                    "coordinate": {
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                },
+                "from": {
+                    "id": 700527,
+                    "name": "Uppsala Business Park Norra (Uppsala)",
+                    "area": "E",
+                    "type": 0,
+                    "coordinate": {
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                },
+                "departureDateTime": "2019-01-16T11:49:00",
+                "departureIsTimingPoint": false,
+                "hasRealTimeDepartureDeviation": false,
+                "realTimeDepartureDateTime": null,
+                "arrivalDateTime": "2019-01-16T12:05:00",
+                "arrivalIsTimingPoint": true,
+                "hasRealTimeArrivalDeviation": false,
+                "realTimeArrivalDateTime": null,
+                "walkingDistance": null,
+                "isCallTrip": false,
+                "notes": [],
+                "pointsOnRoute": [
+                    {
+                        "id": 700512,
+                        "name": "Uppsala Business Park Östra (Uppsala)",
+                        "area": "B",
+                        "arrivalDateTime": "2019-01-16T10:50:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700513,
+                        "name": "Uppsala Business Park Västra (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:51:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700204,
+                        "name": "Möllersvärdsgatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:52:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700270,
+                        "name": "Bolandsgatan (Uppsala)",
+                        "area": "B",
+                        "arrivalDateTime": "2019-01-16T10:53:00Z",
+                        "arrivalIsTimingPoint": true,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700547,
+                        "name": "Stålgatan södra (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T10:56:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700333,
+                        "name": "Kungsängsesplanaden (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:00:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700259,
+                        "name": "Samariterhemmet (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:03:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    }
+                ],
+                "path": [],
+                "deviations": []
+            }
+        ],
+        "priceZoneList": "7101",
+        "ticketType": {
+            "code": "UL1",
+            "category": 0,
+            "name": {
+                "parts": [
+                    {
+                        "operator": "UL",
+                        "backgroundColor": "#f1c800",
+                        "textColor": "#211b00",
+                        "text": "Zon 1"
+                    }
+                ],
+                "additions": null
+            },
+            "zones": [
+                {
+                    "network": "UL",
+                    "code": "1",
+                    "name": "Zon 1",
+                    "backgroundColor": "#f1c800",
+                    "textColor": "#211b00"
+                }
+            ],
+            "validSeconds": 4500,
+            "priceClasses": [
+                {
+                    "type": 0,
+                    "code": "VUL1",
+                    "prices": [
+                        {
+                            "type": 6,
+                            "value": 3200,
+                            "bellaTicketOfferIds": [
+                                "5c35e316a3fb50000a4a51a1"
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "value": 2500,
+                            "bellaTicketOfferIds": [
+                                "5c35e318a3fb50000a4a51b4"
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "value": 2500,
+                            "bellaTicketOfferIds": [
+                                "5c35e3196898b8000a0c570e"
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "value": 3900,
+                            "bellaTicketOfferIds": [
+                                "5c35e31a6898b8000a0c572d"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "code": "UUL1",
+                    "prices": [
+                        {
+                            "type": 6,
+                            "value": 2000,
+                            "bellaTicketOfferIds": [
+                                "5c35e317a3fb50000a4a51af"
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "value": 1500,
+                            "bellaTicketOfferIds": [
+                                "5c35e31832ddf3000bf716f8"
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "value": 1500,
+                            "bellaTicketOfferIds": [
+                                "5c35e319a3fb50000a4a51cf"
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "value": 2700,
+                            "bellaTicketOfferIds": [
+                                "5c35e31a6898b8000a0c5733"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "expires": "2019-02-10T12:03:36.774365Z",
+            "additionalTicketTypes": null
+        },
+        "noOfChanges": 0,
+        "zones": [
+            {
+                "network": "UL",
+                "code": "1",
+                "name": "UL zon 1"
+            }
+        ]
+    },
+    {
+        "journeyKey": "13953151047001100450700053600010010",
+        "from": {
+            "id": 700527,
+            "name": "Uppsala Business Park Norra (Uppsala)",
+            "area": "C",
+            "type": 0,
+            "coordinate": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "to": {
+            "id": 700600,
+            "name": "Uppsala Centralstation (Uppsala)",
+            "area": "E1",
+            "type": 0,
+            "coordinate": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "departureDateTime": "2019-01-16T12:00:00",
+        "departureIsTimingPoint": true,
+        "hasRealTimeDepartureDeviation": false,
+        "realTimeDepartureDateTime": null,
+        "arrivalDateTime": "2019-01-16T12:13:00",
+        "arrivalIsTimingPoint": false,
+        "hasRealTimeArrivalDeviation": false,
+        "realTimeArrivalDateTime": null,
+        "travelTime": 13,
+        "routeLinks": [
+            {
+                "routeLinkKey": "13953151047001100450700053600010010",
+                "line": {
+                    "name": "11",
+                    "lineNo": 11,
+                    "trainNo": 0,
+                    "towards": "Gottsunda Centrum via Vårdsätra",
+                    "trafficType": 1
+                },
+                "to": {
+                    "id": 700600,
+                    "name": "Uppsala Centralstation (Uppsala)",
+                    "area": "E1",
+                    "type": 0,
+                    "coordinate": {
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                },
+                "from": {
+                    "id": 700527,
+                    "name": "Uppsala Business Park Norra (Uppsala)",
+                    "area": "C",
+                    "type": 0,
+                    "coordinate": {
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                },
+                "departureDateTime": "2019-01-16T12:00:00",
+                "departureIsTimingPoint": true,
+                "hasRealTimeDepartureDeviation": false,
+                "realTimeDepartureDateTime": null,
+                "arrivalDateTime": "2019-01-16T12:13:00",
+                "arrivalIsTimingPoint": false,
+                "hasRealTimeArrivalDeviation": false,
+                "realTimeArrivalDateTime": null,
+                "walkingDistance": null,
+                "isCallTrip": false,
+                "notes": [],
+                "pointsOnRoute": [
+                    {
+                        "id": 700512,
+                        "name": "Uppsala Business Park Östra (Uppsala)",
+                        "area": "B",
+                        "arrivalDateTime": "2019-01-16T11:01:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700513,
+                        "name": "Uppsala Business Park Västra (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:03:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700204,
+                        "name": "Möllersvärdsgatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:04:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700272,
+                        "name": "Rapsgatan norra (Uppsala)",
+                        "area": "C",
+                        "arrivalDateTime": "2019-01-16T11:05:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700381,
+                        "name": "Nymansgatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:07:00Z",
+                        "arrivalIsTimingPoint": true,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700379,
+                        "name": "Danmarksgatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:09:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700604,
+                        "name": "Björkgatan södra (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:10:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700608,
+                        "name": "Säbygatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:11:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    }
+                ],
+                "path": [],
+                "deviations": []
+            }
+        ],
+        "priceZoneList": "7101",
+        "ticketType": {
+            "code": "UL1",
+            "category": 0,
+            "name": {
+                "parts": [
+                    {
+                        "operator": "UL",
+                        "backgroundColor": "#f1c800",
+                        "textColor": "#211b00",
+                        "text": "Zon 1"
+                    }
+                ],
+                "additions": null
+            },
+            "zones": [
+                {
+                    "network": "UL",
+                    "code": "1",
+                    "name": "Zon 1",
+                    "backgroundColor": "#f1c800",
+                    "textColor": "#211b00"
+                }
+            ],
+            "validSeconds": 4500,
+            "priceClasses": [
+                {
+                    "type": 0,
+                    "code": "VUL1",
+                    "prices": [
+                        {
+                            "type": 6,
+                            "value": 3200,
+                            "bellaTicketOfferIds": [
+                                "5c35e316a3fb50000a4a51a1"
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "value": 2500,
+                            "bellaTicketOfferIds": [
+                                "5c35e318a3fb50000a4a51b4"
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "value": 2500,
+                            "bellaTicketOfferIds": [
+                                "5c35e3196898b8000a0c570e"
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "value": 3900,
+                            "bellaTicketOfferIds": [
+                                "5c35e31a6898b8000a0c572d"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "code": "UUL1",
+                    "prices": [
+                        {
+                            "type": 6,
+                            "value": 2000,
+                            "bellaTicketOfferIds": [
+                                "5c35e317a3fb50000a4a51af"
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "value": 1500,
+                            "bellaTicketOfferIds": [
+                                "5c35e31832ddf3000bf716f8"
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "value": 1500,
+                            "bellaTicketOfferIds": [
+                                "5c35e319a3fb50000a4a51cf"
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "value": 2700,
+                            "bellaTicketOfferIds": [
+                                "5c35e31a6898b8000a0c5733"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "expires": "2019-02-10T12:03:36.774365Z",
+            "additionalTicketTypes": null
+        },
+        "noOfChanges": 0,
+        "zones": [
+            {
+                "network": "UL",
+                "code": "1",
+                "name": "UL zon 1"
+            }
+        ]
+    },
+    {
+        "journeyKey": "13953151047001100908000150600020010",
+        "from": {
+            "id": 700527,
+            "name": "Uppsala Business Park Norra (Uppsala)",
+            "area": "E",
+            "type": 0,
+            "coordinate": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "to": {
+            "id": 700600,
+            "name": "Uppsala Centralstation (Uppsala)",
+            "area": "C4",
+            "type": 0,
+            "coordinate": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        },
+        "departureDateTime": "2019-01-16T12:04:00",
+        "departureIsTimingPoint": false,
+        "hasRealTimeDepartureDeviation": false,
+        "realTimeDepartureDateTime": null,
+        "arrivalDateTime": "2019-01-16T12:20:00",
+        "arrivalIsTimingPoint": true,
+        "hasRealTimeArrivalDeviation": false,
+        "realTimeArrivalDateTime": null,
+        "travelTime": 16,
+        "routeLinks": [
+            {
+                "routeLinkKey": "13953151047001100908000150600020010",
+                "line": {
+                    "name": "804",
+                    "lineNo": 804,
+                    "trainNo": 0,
+                    "towards": "Centralstationen Enköping",
+                    "trafficType": 6
+                },
+                "to": {
+                    "id": 700600,
+                    "name": "Uppsala Centralstation (Uppsala)",
+                    "area": "C4",
+                    "type": 0,
+                    "coordinate": {
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                },
+                "from": {
+                    "id": 700527,
+                    "name": "Uppsala Business Park Norra (Uppsala)",
+                    "area": "E",
+                    "type": 0,
+                    "coordinate": {
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                },
+                "departureDateTime": "2019-01-16T12:04:00",
+                "departureIsTimingPoint": false,
+                "hasRealTimeDepartureDeviation": false,
+                "realTimeDepartureDateTime": null,
+                "arrivalDateTime": "2019-01-16T12:20:00",
+                "arrivalIsTimingPoint": true,
+                "hasRealTimeArrivalDeviation": false,
+                "realTimeArrivalDateTime": null,
+                "walkingDistance": null,
+                "isCallTrip": false,
+                "notes": [],
+                "pointsOnRoute": [
+                    {
+                        "id": 700512,
+                        "name": "Uppsala Business Park Östra (Uppsala)",
+                        "area": "B",
+                        "arrivalDateTime": "2019-01-16T11:05:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700513,
+                        "name": "Uppsala Business Park Västra (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:06:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700204,
+                        "name": "Möllersvärdsgatan (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:07:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700270,
+                        "name": "Bolandsgatan (Uppsala)",
+                        "area": "B",
+                        "arrivalDateTime": "2019-01-16T11:08:00Z",
+                        "arrivalIsTimingPoint": true,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700547,
+                        "name": "Stålgatan södra (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:11:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700333,
+                        "name": "Kungsängsesplanaden (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:15:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    },
+                    {
+                        "id": 700259,
+                        "name": "Samariterhemmet (Uppsala)",
+                        "area": "A",
+                        "arrivalDateTime": "2019-01-16T11:18:00Z",
+                        "arrivalIsTimingPoint": false,
+                        "hasRealTimeArrivalDeviation": false,
+                        "realTimeArrivalDateTime": null,
+                        "coordinate": {
+                            "latitude": 0,
+                            "longitude": 0
+                        }
+                    }
+                ],
+                "path": [],
+                "deviations": []
+            }
+        ],
+        "priceZoneList": "7101",
+        "ticketType": {
+            "code": "UL1",
+            "category": 0,
+            "name": {
+                "parts": [
+                    {
+                        "operator": "UL",
+                        "backgroundColor": "#f1c800",
+                        "textColor": "#211b00",
+                        "text": "Zon 1"
+                    }
+                ],
+                "additions": null
+            },
+            "zones": [
+                {
+                    "network": "UL",
+                    "code": "1",
+                    "name": "Zon 1",
+                    "backgroundColor": "#f1c800",
+                    "textColor": "#211b00"
+                }
+            ],
+            "validSeconds": 4500,
+            "priceClasses": [
+                {
+                    "type": 0,
+                    "code": "VUL1",
+                    "prices": [
+                        {
+                            "type": 6,
+                            "value": 3200,
+                            "bellaTicketOfferIds": [
+                                "5c35e316a3fb50000a4a51a1"
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "value": 2500,
+                            "bellaTicketOfferIds": [
+                                "5c35e318a3fb50000a4a51b4"
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "value": 2500,
+                            "bellaTicketOfferIds": [
+                                "5c35e3196898b8000a0c570e"
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "value": 3900,
+                            "bellaTicketOfferIds": [
+                                "5c35e31a6898b8000a0c572d"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "code": "UUL1",
+                    "prices": [
+                        {
+                            "type": 6,
+                            "value": 2000,
+                            "bellaTicketOfferIds": [
+                                "5c35e317a3fb50000a4a51af"
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "value": 1500,
+                            "bellaTicketOfferIds": [
+                                "5c35e31832ddf3000bf716f8"
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "value": 1500,
+                            "bellaTicketOfferIds": [
+                                "5c35e319a3fb50000a4a51cf"
+                            ]
+                        },
+                        {
+                            "type": 0,
+                            "value": 2700,
+                            "bellaTicketOfferIds": [
+                                "5c35e31a6898b8000a0c5733"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "expires": "2019-02-10T12:03:36.774365Z",
+            "additionalTicketTypes": null
+        },
+        "noOfChanges": 0,
+        "zones": [
+            {
+                "network": "UL",
+                "code": "1",
+                "name": "UL zon 1"
+            }
+        ]
+    }
+]
