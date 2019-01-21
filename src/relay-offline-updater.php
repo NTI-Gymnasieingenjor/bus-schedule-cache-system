@@ -1,5 +1,8 @@
 <?php
 
+require 'config.php';
+require 'util.php';
+
 if (file_exists('info.json')) {
     $info = json_decode(file_get_contents('info.json'));
     if ($info->lastUpdate < date('Y-m-d')) {
@@ -12,20 +15,7 @@ if (file_exists('info.json')) {
 }
 
 if ($update) {
-    $keep = [
-        [
-            "start" => "Uppsala Business Park Norra",
-            "stop" => "Uppsala Centralstation",
-        ],
-        [
-            "start" => "Uppsala Södra Slavstavägen",
-            "stop" => "Uppsala Centralstation",
-        ],
-        [
-            "start" => "Uppsala Business Park Norra",
-            "stop" => "Storvreta Centrum (Uppsala kn)",
-        ],
-    ];
+    $keep = $config['transits'];
 
     $days = 7;
 
@@ -86,11 +76,15 @@ if ($update) {
             }
         }
     }
-    echo "Updated offline cache.";
+    $response = ['message' => 'Offline cache updated', 'description' => 'Offline cache updated successfully.'];
 } else {
-    echo "Already up to date.";
+    $response = ['message' => 'Already up to date', 'description' => 'Offline cache is already up to date!'];
 }
 
 $info = new \stdClass();
 $info->lastUpdate = date('Y-m-d');
 file_put_contents('info.json', json_encode($info));
+
+$payload = Util::json(json_encode($response));
+
+return Util::jsonResponse($payload);

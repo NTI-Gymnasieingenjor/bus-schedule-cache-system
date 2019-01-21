@@ -5,7 +5,7 @@ require 'util.php';
 $results = 5;
 $line = Util::input('line');
 if (!$line) {
-    $payload = Util::json(json_encode(['error' => 'Please provide transit line']));
+    $payload = Util::json(json_encode(['message' => 'Unknown transit line', 'description' => 'Please provide a transit line']));
     return Util::jsonResponse($payload);
 }
 
