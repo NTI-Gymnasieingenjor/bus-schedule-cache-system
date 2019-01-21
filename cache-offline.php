@@ -13,9 +13,18 @@ if (file_exists('info.json')) {
 
 if ($update) {
     $keep = [
-        ["start" => "Uppsala Business Park Norra", "stop" => "Uppsala Centralstation"],
-        ["start" => "Uppsala Södra Slavstavägen", "stop" => "Uppsala Centralstation"],
-        ["start" => "Uppsala Business Park Norra", "stop" => "Storvreta Centrum (Uppsala kn)"],
+        [
+            "start" => "Uppsala Business Park Norra",
+            "stop" => "Uppsala Centralstation",
+        ],
+        [
+            "start" => "Uppsala Södra Slavstavägen",
+            "stop" => "Uppsala Centralstation",
+        ],
+        [
+            "start" => "Uppsala Business Park Norra",
+            "stop" => "Storvreta Centrum (Uppsala kn)",
+        ],
     ];
 
     $days = 7;
@@ -26,7 +35,7 @@ if ($update) {
         curl_setopt_array($curl, array(
             CURLOPT_RETURNTRANSFER => 1,
             CURLOPT_URL => $url,
-            CURLOPT_USERAGENT => 'Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+            CURLOPT_USERAGENT => 'Mozilla/10.0 (Windows NT 10.0) AppleWebKit/538.36 (KHTML, like Gecko) Chrome/69.420 Safari/537.36',
         ));
         $response = curl_exec($curl);
         curl_close($curl);
