@@ -2,6 +2,7 @@
 
 require 'util.php';
 require 'cors.php';
+require 'config.php';
 
 $results = 5;
 $line = Util::input('line');
