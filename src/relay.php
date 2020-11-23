@@ -19,12 +19,15 @@ if ($_SERVER['REQUEST_METHOD'] != 'POST') {
 // Get URL
 $url = Util::input('url');
 
+$url = str_replace(" ", "+", $url);
+
+//    error_log(print_r($url, true));
 // Cache url response if not already cached
 if (!Cache::exists($url)) {
+    //die();
     $data = Util::fetch($url);
     //Cache::clear($url);
     Cache::create($url, $data);
-
     Util::setHeader('Cobalt-Lama-Response-Source', 'request');
 } else {
     Util::setHeader('Cobalt-Lama-Response-Source', 'cache');
